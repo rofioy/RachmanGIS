@@ -1,0 +1,1 @@
+var json_KeuanganDesaMenganti_20 = {"type":"FeatureCollection","name":"KeuanganDesaMenganti_20","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Keuangan":"Bank"},"geometry":{"type":"Point","coordinates":[109.070952066742691,-7.669479468105614]}}]}

@@ -1,0 +1,1 @@
+var json_GerejaDesaMenganti_24 = {"type":"FeatureCollection","name":"GerejaDesaMenganti_24","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Gereja":"Gereja Desa Menganti"},"geometry":{"type":"Point","coordinates":[109.067615118319409,-7.671909881226099]}}]}

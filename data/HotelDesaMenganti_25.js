@@ -1,0 +1,1 @@
+var json_HotelDesaMenganti_25 = {"type":"FeatureCollection","name":"HotelDesaMenganti_25","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Hotel":"Hotel Bromo Indah 2"},"geometry":{"type":"Point","coordinates":[109.079417068197685,-7.686785489498488]}}]}
